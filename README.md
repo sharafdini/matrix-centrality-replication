@@ -1,4 +1,4 @@
-# matrix-centrality-replication
+
 # Replication of Centrality Experiments in  
 **"Centrality Measures Based on Matrix Functions" (Njotto, 2018)**
 
@@ -38,12 +38,6 @@ This repository documents the replication code so that other researchers (and th
   - Uses absolute-inverse handling for \(k_3,k_4\).  
   - Outputs results for several values of \(p\).
 
-
-- **`results/`**  
-  Directory where CSV/LaTeX outputs of the replications are stored.  
-  - `table7_prime.csv` — replication of Table 7.  
-  - `table9_prime.csv` — replication of Table 9.  
-  - `table7_prime.tex` / `table9_prime.tex` — ready-to-include LaTeX tables for reporting.
 
 - **`README.md`**  
   This file.
